@@ -1,0 +1,23 @@
+#tasksTable {
+    width: 100%;
+}
+
+.navbar {
+    background-color: #138496;
+}
+
+.tasks {
+    margin-top: 20px;
+}
+
+.edit-task {
+    margin-right: 5px;
+}
+
+.actions {
+    display: flex;
+}
+
+th {
+    cursor: pointer;
+}
